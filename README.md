@@ -8,7 +8,7 @@ In today’s world social media plays a crucial role in analyzing the impact of 
 
 We are a team of passionate undergraduate students pursuing Btech in AIML from Symbiosis Institute of Technology - Pune, India.
 
-- **Samriddhi Kumari** - Team Lead
+- **Samriddhi Kumari**
 - **Ramitha V**
 - **Sakshi Sah**
 
