@@ -1,16 +1,8 @@
-# Metoo Tweets Sentiment Analysis || WWCode Hackathon for Social Good 2023
+# MeToo Movement Analysis: Sentiment, Themes, and Impact
 
 ## Introduction
 
 In today’s world social media plays a crucial role in analyzing the impact of movements such as #MeToo on people and vice versa. Due to the immense reach of social media, there is a need to analyse and understand people’s reactions to determine the impact of the movement.
-
-## Meet the Team
-
-We are a team of passionate undergraduate students pursuing Btech in AIML from Symbiosis Institute of Technology - Pune, India.
-
-- **Samriddhi Kumari**
-- **Ramitha V**
-- **Sakshi Sah**
 
 ## Problem Statement
 
@@ -36,10 +28,6 @@ Our plan of action involves a well-structured approach to tackle the analysis ef
 
 5. **Understanding the different topics**: Perform topic modeling to uncover hidden themes in the tweets, analyze sentiment distribution within these topics, explore key terms in each topic, and identify influential figures within the topics.
 
-## Our Goal
-
-Our primary goal for this hackathon project is to gain better understanding of the #metoo movement and its impact on people as well as to pread awareness about Woman Empowerment, Safety and Crime Rates. Additionally, we aim to gain valuable experience, collaborate effectively as a team, and showcase our tech skills and creativity!
-
 ## Our Project
 
 ### Project Name: **Me Too Tweets Sentiment Analysis**
@@ -60,20 +48,3 @@ In this project we have primarily used Python libraries like , Artificial Intell
 - The top words and phrases brought out various small topics and events that were discussed in the movement.
 - Analysing hashtags other than #metoo, gave us insights into relevant hashtags and their impact on the movement.
 - The use of topic modelling uncovered the hidden topics and themes in the movement.
-
-### Future Improvements
-- More dimension can be added to this project by accessing the X (formerly Twitter) API that collects data realtime.
-- That data could be stored and used to analyse emotions, understand topics, summarize and plot interactive graphs on a dynamic webpage.
-- There is also scope to expand to other social media sites like Reddit and news websites collecting any and every data related to this hashtag.
-- We could also create an app or a website where women can talk freely about their experiences which can be used to understand and infer patterns from cases that leads to harrasment or sexual assault.
-
-## Get Involved
-
-If you are interested in our project and want to contribute, have suggestions, or want to collaborate, please feel free to contact us. We appreciate any feedback and support!
-
-## Acknowledgments
-
-We'd like to express our gratitude to our mentors Dr.Pooja Kamat and Dr.Smita Mahajan for their guidance and support throughout the project.
-
-
-Thank you for taking the time to explore our hackathon project. We're excited to make a positive impact and look forward to the journey ahead!
