@@ -28,12 +28,8 @@ Our plan of action involves a well-structured approach to tackle the analysis ef
 
 5. **Understanding the different topics**: Perform topic modeling to uncover hidden themes in the tweets, analyze sentiment distribution within these topics, explore key terms in each topic, and identify influential figures within the topics.
 
-## Our Project
-
-### Project Name: **Me Too Tweets Sentiment Analysis**
-
-### Project Description
-In this project we have primarily used Python libraries like , Artificial Intelligence and Machine Learning models such as , to analyse and visualise the emotions attached with the #metoo tweets and prominent public figures. This insight will greatly help in understanding the reach and impact of such movements that happen on social media platforms as well as help in spreading awareness about safety and empowerment of survivors of such crimes.
+### Solution Description
+In this solution we have primarily used Python libraries like , Artificial Intelligence and Machine Learning models such as , to analyse and visualise the emotions attached with the #metoo tweets and prominent public figures. This insight will greatly help in understanding the reach and impact of such movements that happen on social media platforms as well as help in spreading awareness about safety and empowerment of survivors of such crimes.
 
 ### Technologies Used
 
